@@ -1,0 +1,32 @@
+---
+title: "About"
+about:
+  id : hero-heading
+  template: trestles
+  image: Evan.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/evanginting
+---
+[**EVAN GINTING**]{style="color:Black;"}
+
+::: {#hero-heading}
+I am a Master Degree student of Monash University, taking Business Analytics as my major. Prior to this, I have five and half years of professional experience in risk analytics, business intelligence, internal audit, and business process improvement area providing services across multiple industries, such as telecommunication, manufacturing, banking, consumer, and mining.
+
+## Education
+
+**Monash University** \| Victoria, Australia
+
+Master of Business Analytics \| February 2023 - Present
+
+**Parahyangan Catholic University** \| Bandung, Indonesia
+
+Bachelor of Accounting \| August 2012 - January 2017
+
+## Work Experience
+
+**Deloitte** \| Jakarta, Indonesia
+
+Assistant Manager \| June 2017 - December 2022
+:::
